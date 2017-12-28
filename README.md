@@ -1,6 +1,6 @@
 # The Dying of the Light
 
-A game completed for the Ludum Dare 39 competition.
+A game completed for the Ludum Dare 39 competition theme "Running out of Power"
 
 ## About This Project
 
